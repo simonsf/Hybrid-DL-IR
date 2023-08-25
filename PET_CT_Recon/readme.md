@@ -16,4 +16,5 @@ python apply_PET -i path_to_input_image -m directory_to_model -o directory_to_ou
 -------------------------------
 ## Requirements
 numpy, SimpleITK, easydict, torch
+
 Note that the models folder was not uploaded here since the size exceeds 25MB of Github limit. Please refer to the Mendeley Data website (https://www.doi.org/10.17632/j7khwb3z3r) where we uploaded the codes too.
